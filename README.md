@@ -1,0 +1,1 @@
+Using threading, requests and beautifulsoup modules, checks web comics sites(currently lefthandedtoons.com and buttersafe.com) and automatically downloads new images. Saves the latest downloaded image in a txt file to keep track so next time it’s run, it will only download new images.
